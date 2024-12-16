@@ -77,5 +77,7 @@ Here are some ideas to get you started:
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=whalfk220)](https://github.com/whalfk220/velog-readme-stats)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display:flex; gap:20px;">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula" />
+<img align="top" style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomira0220&layout=compact&theme=dracula&hide_border=true" /> 
+</div>
