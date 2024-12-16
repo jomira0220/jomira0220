@@ -69,19 +69,29 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
-</div><br>
 </div>
-
+</div>
+<br/>
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@whalfk220"><img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"></a>
     <a href="https://whalfk220.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
-</div><br/>
+</div>
+
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=whalfk220)](https://github.com/whalfk220/velog-readme-stats)
-<br>
+
+
 <div style="display:flex; gap:20px;">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula" />
-<img align="top" style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomira0220&layout=compact&theme=dracula&hide_border=true" /> 
+  <img align="top" style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomira0220&layout=compact&theme=dracula&hide_border=true" /> 
+</div>
+
+
+## 📞 Connect 📞
+<div>
+<a href="https://www.instagram.com/whalfk220?igsh=dXo2ODFvbWllN2s0"><img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:﻿whalfk220@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<!--a href="mailto:﻿whalfk220@gmail.com"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a-->
 </div>
