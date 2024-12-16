@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20to%20MIRA%20github👋&fontSize=65&color=0:8871e5,100:b678c4&stroke=b678c4)
 
-## 🔨 Once I've used 🔨
+## 🔨 Tech Stack 🔨
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjomira0220%2Fhit-counter&count_bg=%23951BDD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github+Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
    <!-- Frontend -->
