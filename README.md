@@ -40,12 +40,14 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/>
       <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
     </div>
+   <br/>
     <!-- Database -->
     <p><strong>Database</strong></p>
     <div>
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
         <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
     </div>
+   <br/>
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
@@ -53,6 +55,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
         <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white"/>
     </div>
+   <br/>
     <!-- Design -->
     <p><strong>Design</strong></p>
     <div>
@@ -60,6 +63,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"/>
     </div>
+   <br/>
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
